@@ -29,5 +29,5 @@ UCI Mushroom Dataset
 ## Objective
 To classify mushrooms based on their physical characteristics and evaluate the models, with special attention to detecting poisonous mushrooms.
 
-## Author
-Your Name
+## Author 
+Adhithyan S 
